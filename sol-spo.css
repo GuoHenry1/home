@@ -1,0 +1,35 @@
+.h1
+{
+	text-align: center;
+	font-size: 48px;
+}
+.p1
+{
+	font-size: 24px;
+}
+.hr1
+{
+	background-color: #f4a941;
+	height: 3px;
+}
+#sol1
+{
+	float: right;
+	width: 40%;
+}
+.hr2
+{
+	background-color: #f44141;
+	height: 3px;
+}
+#sports1
+{
+	width: 40%;
+	height: 400px;
+	float: left;
+}
+#ul
+{
+	margin-left: 40%;
+	font-size: 24px;
+}

@@ -1,0 +1,66 @@
+#body
+{
+	background-image: url("background1.jpg");
+}
+.h1
+{
+	text-align: center;
+	font-size: 90px;
+	color: #ffffff;
+}
+#p1
+{
+	font-size: 24px;
+}
+#tableheader
+{
+	text-align: center;
+	font-size: 48px;
+	color: #ffffff;
+}
+#table1
+{
+	border: 1px solid black;
+	border-style: solid;
+	width: 100%;
+	background-color: #ff9900;
+}
+a:link 
+{
+	text-decoration: none;
+	display: block;
+	color: #ffffff;
+}
+.rows
+{
+	border: 1px solid black
+}
+.genres
+{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 24px;
+}
+#h3
+{
+	font-size: 48px;
+	color: #ffffff;
+}	
+#p2
+{
+	font-size: 24px;
+}
+.websites
+{
+	width: 50%;
+	float: left;
+}
+#references
+{
+	font-size: 24px;
+}
+#ol
+{
+	font-size: 24px;
+}
+/*End of css doc*/
